@@ -7,4 +7,4 @@
     ----------------------------------------------------------------- 
 
 
-A Node.js goal tracker application. 
+A Node.js + Express goal tracker application. 
